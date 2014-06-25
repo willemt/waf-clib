@@ -9,7 +9,7 @@ How does it work?
     
     clib install strndup
 
-2. Add clib.py to the same folder as your waf file
+2. Add clib.py to the same folder as your waf file (note: your deps folder is expected to be in the same folder as your waf file)
 
 3. Inside wscript you can access aspects of clib packages using the following methods::
 
