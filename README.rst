@@ -19,4 +19,4 @@ How does it work?
         print conf.clib_h_files('strndup') # list all h files for strndup
         print conf.clib_info('strndup') # package.json as python dict
 
-
+All file listings use absolute paths.
